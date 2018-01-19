@@ -66,18 +66,18 @@ public class Language{
 	public void setId(long id) {
 		this.id = id;
 	}
-	// public Date getCreatedAt() {
-	// 	return createdAt;
-	// }
-	// public void setCreatedAt(Date createdAt) {
-	// 	this.createdAt = createdAt;
-	// }
-	// public Date getUpdatedAt() {
-	// 	return updatedAt;
-	// }
-	// public void setUpdatedAt(Date updatedAt) {
-	// 	this.updatedAt = updatedAt;
-	// }
+	public Date getCreatedAt() {
+		return createdAt;
+	}
+	public void setCreatedAt(Date createdAt) {
+		this.createdAt = createdAt;
+	}
+	public Date getUpdatedAt() {
+		return updatedAt;
+	}
+	public void setUpdatedAt(Date updatedAt) {
+		this.updatedAt = updatedAt;
+	}
 	
 	// Setters and Getters go here
 	public void setLanguage(String language){
