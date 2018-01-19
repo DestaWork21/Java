@@ -1,0 +1,5 @@
+com\project\Language\LanguageApplication.class
+com\project\Language\repositories\LanguageRepository.class
+com\project\Language\models\Language.class
+com\project\Language\controllers\HomeController.class
+com\project\Language\services\LanguageService.class
