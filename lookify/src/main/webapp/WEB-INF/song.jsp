@@ -12,9 +12,11 @@
                 <h2><c:out value="${err.getDefaultMessage()}"/></h2>
         
             </c:forEach>
-            <style>
+
+
 	
-    <a href="/dashboard">Dashboard</a>
+  
+  <a href="/dashboard">Dashboard</a>
 
 <h2> Title: <c:out value="${song.name}" />  </h2>
 <h2> Artist: <c:out value="${song.artist}" />  </h2>
