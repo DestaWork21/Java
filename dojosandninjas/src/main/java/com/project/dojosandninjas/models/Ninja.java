@@ -67,8 +67,6 @@ public class Ninja {
 
 	}
 
-
-
 	public int getAge() {
 		return age;
 	}
@@ -81,8 +79,6 @@ public class Ninja {
 		return createdAt;
 
 	}
-
-
 
 	public void setCreatedAt(Date createdAt) {
 
